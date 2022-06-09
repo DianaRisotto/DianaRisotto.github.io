@@ -38,7 +38,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram @soyrisotto
 
 
-![aventurero](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/mini%20aventureroo.png)
+![aventurero](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/mini%20aventureroo.png) ![arquero](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/mini%20arquero.png) ![mago](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/mini%20mago.png) ![paladin](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/mini%20palad%C3%ADn.png)
 
 # 2. Memoria del proyecto 
 
