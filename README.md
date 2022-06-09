@@ -33,7 +33,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github: https://github.com/DianaRisotto/DianaRisotto.github.io
+- Github: https://github.com/DianaRisotto
 - Twitter @SoyRisotto
 - Instagram @soyrisotto
 
