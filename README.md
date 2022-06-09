@@ -17,9 +17,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![logo] (https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/bienvenido.png)
 
-(insertar imágenes a resolucion de 100px alto)
+![terra] (https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/normal.png)
 
 **Resolución:** 800x600px
 
@@ -38,7 +38,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram @soyrisotto
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![aventurero](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/mini%20aventureroo.png)
 
 # 2. Memoria del proyecto 
 
@@ -95,7 +95,7 @@ Aprobar la asignatura, y porque me gustan las novelas gráficas.
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
 - Juego: he añadido diálogos, con algunas animaciones simples, y botones de múltiples respuestas, algunas respuestas hacen que la expresión del personaje cambie, una de las respuestas te lleva a un Game Over y tienes que volver a empezar. He añadido una selección de personaje, dependiendo del personaje que elijas aparecerá uno u otro. He añadido una especie de minijuego donde controlas al personaje que elegiste con los botones del teclado e intentas esquivar ataques. 
-- Video: https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/tutorial.mp4
+- Video: https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/tutorial.mp4
 - Menús y elementos de navegación: He añadido un menú al principio con varios botones que te llevan al juego, una escena de extras con imágenes de los personajes, los créditos del proyecto y una escena de configuración en la que puedes ver la fecha y hora, la música del juego y cambiar el volumen.
 
 
