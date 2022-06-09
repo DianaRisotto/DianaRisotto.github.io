@@ -17,9 +17,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela
 
-**Logotipo** : ![logo] (https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/bienvenido.png)
+**Logotipo** : ![logo](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/bienvenido.png)
 
-![terra] (https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/normal.png)
+![terra](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/Proyecto%20hippani_Media/normal.png)
 
 **Resolución:** 800x600px
 
