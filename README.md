@@ -1,41 +1,41 @@
 # cmi22
 
-## (Nombre del proyecto)
+## Héroe salva el mundo
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Héroe salva el mundo
 
-**Web:**   (url github.io)
+**Web:**   https://github.com/DianaRisotto/DianaRisotto.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Diana Castro Ruiz
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Trata de una historia en la que una diosa te lleva a su mundo para salvarlo de un rey malvado.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 28,2MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 09/06/2022
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github: https://github.com/DianaRisotto/DianaRisotto.github.io
+- Twitter @SoyRisotto
+- Instagram @soyrisotto
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -72,20 +72,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+Simplemente se me ocurrió, me basé muy generalmente en juegos de aventura con temática medieval.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Aprobar la asignatura, y porque me gustan las novelas gráficas.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos
 
 
 
@@ -105,14 +104,14 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que le ha faltado más decoración, y la parte del minijuego podría tener más interacción de la que tiene.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
+Creo que es bastante mejorable, pero aún así ha quedado mejor de lo que esperaba, algunas cosas que añadí no estaban en el storyboard porque pensé que me
+quedó demasiado corto.
 
 
 
@@ -123,13 +122,14 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs ** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  1: https://www.youtube.com/watch?v=EkXYsYfvyRI&ab_channel=AdrianvonZiegler
+*          2: https://www.youtube.com/watch?v=Yc83mnIa2sU&ab_channel=PeterGundry%7CComposer
+* Imágenes:  mias
+* Tipografía: Arial
 
 **Herramientas utilizadas**
 
