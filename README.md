@@ -46,7 +46,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+En la escena del juego, el personaje de Terra te explica por qué estás ahí, luego te hace varias preguntas que puedes responder con varias respuestas. En la última pregunta, si eliges ir al más allá te sale la pantalla de Game Over, si eliges la otra opción te vas a una selección de personaje. Al elegir personaje llegas al castillo del rey malvado el cual tienes que esquivar sus ataques en un minijuego, luego lo derrotas, Terra te da las gracias y hay una transición a negro donde pone FIN.
 
 
 
@@ -54,7 +54,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![esquema](https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/proyecto%20hippani/esquema.jpg)
 
 
 
