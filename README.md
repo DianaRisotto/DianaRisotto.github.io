@@ -94,11 +94,9 @@ Aprobar la asignatura, y porque me gustan las novelas gráficas.
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- Juego: he añadido diálogos, con algunas animaciones simples, y botones de múltiples respuestas, algunas respuestas hacen que la expresión del personaje cambie, una de las respuestas te lleva a un Game Over y tienes que volver a empezar. He añadido una selección de personaje, dependiendo del personaje que elijas aparecerá uno u otro. He añadido una especie de minijuego donde controlas al personaje que elegiste con los botones del teclado e intentas esquivar ataques. 
+- Video: https://github.com/DianaRisotto/DianaRisotto.github.io/blob/main/tutorial.mp4
+- Menús y elementos de navegación: He añadido un menú al principio con varios botones que te llevan al juego, una escena de extras con imágenes de los personajes, los créditos del proyecto y una escena de configuración en la que puedes ver la fecha y hora, la música del juego y cambiar el volumen.
 
 
 
