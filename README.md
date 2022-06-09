@@ -127,7 +127,7 @@ quedó demasiado corto.
 **Recursos y materiales audiovisuales:**
 
 * Musica:  1: https://www.youtube.com/watch?v=EkXYsYfvyRI&ab_channel=AdrianvonZiegler
-*          2: https://www.youtube.com/watch?v=Yc83mnIa2sU&ab_channel=PeterGundry%7CComposer
+2: https://www.youtube.com/watch?v=Yc83mnIa2sU&ab_channel=PeterGundry%7CComposer
 * Imágenes:  mias
 * Tipografía: Arial
 
@@ -142,4 +142,4 @@ quedó demasiado corto.
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+Junio 2022
