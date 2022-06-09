@@ -78,7 +78,7 @@ Simplemente se me ocurrió, me basé muy generalmente en juegos de aventura con 
 
 **Motivación de la propuesta** 
 
-Aprobar la asignatura, y porque me gustan las novelas gráficas.
+Me gustan las novelas gráficas.
 
 
 
